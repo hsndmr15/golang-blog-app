@@ -69,7 +69,7 @@ This app is being developed with Go Lang.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This is a simple Forum app which peoples share a thread and reply to some threads.
+This is a simple Blog app which peoples share a thread and reply to some threads.
 
 
 
