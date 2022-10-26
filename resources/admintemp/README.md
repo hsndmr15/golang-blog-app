@@ -1,65 +1,114 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-[SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+<h3 align="center">GoLang Blog App</h3>
 
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
+  <p align="center">
+    Go & Javascrip
+    <br />
+  </p>
+</p>
 
-## Preview
 
-[![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
-## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin-2.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin-2)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2?type=dev)
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-## Download and Installation
+# Admin Panel
 
-To begin using this template, choose one of the following options to get started:
+[![Product Name Screen Shot][product-screenshot-1]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/1.PNG)
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/)
-* Install via npm: `npm i startbootstrap-sb-admin-2`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
+[![Product Name Screen Shot][product-screenshot-2]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/2.PNG)
+[![Product Name Screen Shot][product-screenshot-3]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/3.PNG)
+[![Product Name Screen Shot][product-screenshot-4]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/4.PNG)
+[![Product Name Screen Shot][product-screenshot-5]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/5.PNG)
 
+# Blog Site
+
+[![Product Name Screen Shot][product-screenshot-6]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/6.PNG)
+[![Product Name Screen Shot][product-screenshot-7]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/7.PNG)
+
+
+
+
+
+
+
+This app is being developed with Go Lang.
+
+
+### Built With
+
+* [Go](https://go.dev/)
+* [GORM](https://pkg.go.dev/gorm.io/gorm)
+* [httprouter](https://pkg.go.dev/github.com/julienschmidt/httprouter)
+
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+
+### Installation
+
+
+
+1. Clone the repo
+   sh
+   git clone https://github.com/hsndmr15/golang-blog-app
+   
+2. Set your own database credentials in your database.go file
+
+3. Run "go run main.go" in GO terminal
+
+<!-- USAGE EXAMPLES -->
 ## Usage
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+This is a simple Forum app which peoples share a thread and reply to some threads.
 
-### Gulp Tasks
 
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-You must have npm installed globally in order to use this build environment. This theme was built using node v11.6.0 and the Gulp CLI v2.0.1. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally.
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/).
 
-## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
+<!-- CONTACT -->
+## Contact
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+ilhan - hasandemir_15@hotmail.com
 
-## Copyright and License
+Project Link: [https://github.com/hsndmr15/golang-blog-app](https://github.com/hsndmr15/golang-blog-app)
 
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[product-screenshot-1]: images/1.PNG
+[product-screenshot-2]: images/2.PNG
+[product-screenshot-3]: images/3.PNG
+[product-screenshot-4]: images/4.PNG
+[product-screenshot-5]: images/5.PNG
