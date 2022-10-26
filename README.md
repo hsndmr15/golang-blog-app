@@ -107,8 +107,8 @@ Project Link: [https://github.com/hsndmr15/golang-blog-app](https://github.com/h
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[product-screenshot-1]: images/1.png
-[product-screenshot-2]: images/2.png
-[product-screenshot-3]: images/3.png
-[product-screenshot-4]: images/4.png
-[product-screenshot-5]: images/5.png
+[product-screenshot-1]: images/1.PNG
+[product-screenshot-2]: images/2.PNG
+[product-screenshot-3]: images/3.PNG
+[product-screenshot-4]: images/4.PNG
+[product-screenshot-5]: images/5.PNG
