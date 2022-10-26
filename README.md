@@ -30,8 +30,8 @@
 
 # Blog Site
 
-[![Product Name Screen Shot][product-screenshot-6]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/6.PNG)
-[![Product Name Screen Shot][product-screenshot-7]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/7.PNG)
+[![Product Name Screen Shot][product-screenshot-1]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/6.PNG)
+[![Product Name Screen Shot][product-screenshot-2]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/7.PNG)
 
 
 
