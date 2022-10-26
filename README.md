@@ -28,9 +28,6 @@
 [![Product Name Screen Shot][product-screenshot-3]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/3.PNG)
 [![Product Name Screen Shot][product-screenshot-4]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/4.PNG)
 [![Product Name Screen Shot][product-screenshot-5]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/5.PNG)
-
-# Blog Site
-
 [![Product Name Screen Shot][product-screenshot-6]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/6.PNG)
 [![Product Name Screen Shot][product-screenshot-7]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/7.PNG)
 
