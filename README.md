@@ -60,8 +60,7 @@ This app is being developed with Go Lang.
 
 
 1. Clone the repo
-   sh
-   git clone https://github.com/hsndmr15/golang-blog-app
+   "sh git clone https://github.com/hsndmr15/golang-blog-app"
    
 2. Set your own database credentials in your database.go file
 
