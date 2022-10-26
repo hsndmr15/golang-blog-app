@@ -30,8 +30,8 @@
 
 # Blog Site
 
-[![Product Name Screen Shot][product-screenshot-1]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/6.PNG)
-[![Product Name Screen Shot][product-screenshot-2]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/7.PNG)
+[![Product Name Screen Shot][product-screenshot-6]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/6.PNG)
+[![Product Name Screen Shot][product-screenshot-7]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/7.PNG)
 
 
 
@@ -111,3 +111,5 @@ Project Link: [https://github.com/hsndmr15/golang-blog-app](https://github.com/h
 [product-screenshot-3]: images/3.PNG
 [product-screenshot-4]: images/4.PNG
 [product-screenshot-5]: images/5.PNG
+[product-screenshot-5]: images/6.PNG
+[product-screenshot-5]: images/7.PNG
