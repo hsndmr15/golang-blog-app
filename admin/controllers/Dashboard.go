@@ -16,6 +16,7 @@ import (
 
 type Dashboard struct{}
 
+// x
 func (dashboard Dashboard) Index(w http.ResponseWriter, r *http.Request, params httprouter.Params) {
 	if !helpers.CheckUser(w, r) {
 		return
