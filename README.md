@@ -111,5 +111,5 @@ Project Link: [https://github.com/hsndmr15/golang-blog-app](https://github.com/h
 [product-screenshot-3]: images/3.PNG
 [product-screenshot-4]: images/4.PNG
 [product-screenshot-5]: images/5.PNG
-[product-screenshot-5]: images/6.PNG
-[product-screenshot-5]: images/7.PNG
+[product-screenshot-6]: images/6.PNG
+[product-screenshot-7]: images/7.PNG
