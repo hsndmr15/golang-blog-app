@@ -8,7 +8,7 @@
 <h3 align="center">GoLang Blog App</h3>
 
   <p align="center">
-    Go & Javascrip
+    Go & Javascript
     <br />
   </p>
 </p>
