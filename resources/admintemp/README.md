@@ -22,7 +22,7 @@
 
 # Admin Panel
 
-[![Product Name Screen Shot][product-screenshot-1]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/1.PNG)
+[![Product Name Screen Shot][product-screenshot-1]](https://raw.githubusercontent.com/ilhan-ersoy/laravel-forum-app-with-tdd/master/images/4.png)
 
 [![Product Name Screen Shot][product-screenshot-2]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/2.PNG)
 [![Product Name Screen Shot][product-screenshot-3]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/3.PNG)
