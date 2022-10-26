@@ -22,17 +22,17 @@
 
 # Admin Panel
 
-[![Product Name Screen Shot][product-screenshot-1]]((https://github.com/hsndmr15/golang-blog-app/blob/master/images/1.PNG)
+[![Product Name Screen Shot][product-screenshot-1]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/1.PNG)
 
-[![Product Name Screen Shot][product-screenshot-2]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/2.PNG)
-[![Product Name Screen Shot][product-screenshot-3]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/3.PNG)
-[![Product Name Screen Shot][product-screenshot-4]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/4.PNG)
-[![Product Name Screen Shot][product-screenshot-5]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/5.PNG)
+[![Product Name Screen Shot][product-screenshot-2]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/2.PNG)
+[![Product Name Screen Shot][product-screenshot-3]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/3.PNG)
+[![Product Name Screen Shot][product-screenshot-4]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/4.PNG)
+[![Product Name Screen Shot][product-screenshot-5]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/5.PNG)
 
 # Blog Site
 
-[![Product Name Screen Shot][product-screenshot-6]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/6.PNG)
-[![Product Name Screen Shot][product-screenshot-7]](https://github.com/hsndmr15/golang-blog-app/blob/master/images/7.PNG)
+[![Product Name Screen Shot][product-screenshot-6]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/6.PNG)
+[![Product Name Screen Shot][product-screenshot-7]](https://raw.githubusercontent.com/hsndmr15/golang-blog-app/master/images/7.PNG)
 
 
 
