@@ -83,7 +83,7 @@ This is a simple Blog app which peoples share a thread and reply to some threads
 <!-- CONTACT -->
 ## Contact
 
-ilhan - hasandemir_15@hotmail.com
+Hasan Demir - hasandemir_15@hotmail.com
 
 Project Link: [https://github.com/hsndmr15/golang-blog-app](https://github.com/hsndmr15/golang-blog-app)
 
